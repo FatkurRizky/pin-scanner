@@ -1,0 +1,3 @@
+pin_scanner/build/
+*.bin
+*.elf
